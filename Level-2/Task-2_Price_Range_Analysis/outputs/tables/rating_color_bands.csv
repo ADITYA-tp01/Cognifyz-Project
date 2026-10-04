@@ -1,0 +1,7 @@
+Rating color,Rating text,min_rating,max_rating,mean_rating,count
+White,Not rated,0.0,0.0,0.0,2148
+Red,Poor,1.8,2.4,2.2978494623655914,186
+Orange,Average,2.5,3.4,3.0516189456783516,3737
+Yellow,Good,3.5,3.9,3.6834285714285713,2100
+Green,Very Good,4.0,4.4,4.168118628359592,1079
+Dark Green,Excellent,4.5,4.9,4.659800664451827,301

@@ -1,0 +1,22 @@
+Column,Dtype,Non_Null,Missing,Nunique,Class
+Restaurant ID,int64,9551,0,9551,Numerical
+Restaurant Name,str,9551,0,7446,Text
+Country Code,int64,9551,0,15,Numerical
+City,str,9551,0,141,Categorical
+Address,str,9551,0,8918,Text
+Locality,str,9551,0,1208,Text
+Locality Verbose,str,9551,0,1265,Text
+Longitude,float64,9551,0,8120,Numerical
+Latitude,float64,9551,0,8677,Numerical
+Cuisines,str,9542,9,1826,Text
+Average Cost for two,int64,9551,0,140,Numerical
+Currency,str,9551,0,12,Categorical
+Has Table booking,str,9551,0,2,Categorical
+Has Online delivery,str,9551,0,2,Categorical
+Is delivering now,str,9551,0,2,Categorical
+Switch to order menu,str,9551,0,1,Categorical
+Price range,int64,9551,0,4,Numerical
+Aggregate rating,float64,9551,0,33,Numerical
+Rating color,str,9551,0,6,Categorical
+Rating text,str,9551,0,6,Categorical
+Votes,int64,9551,0,1012,Numerical

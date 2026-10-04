@@ -1,0 +1,6 @@
+Feature,Type,Description,Reason,Leakage_risk
+Restaurant_Name_Length,Numerical,Number of characters in Restaurant Name,Name length is a simple text-derived signal that may relate to branding style,None. Derived only from Restaurant Name.
+Address_Length,Numerical,Number of characters in Address,Address verbosity can proxy location detail without parsing free text,None. Derived only from Address.
+Has_Table_Booking,Binary,"1 if Has Table booking is Yes, otherwise 0",Numeric encoding of a service flag for later modeling,None. Direct encoding of an existing column.
+Has_Online_Delivery,Binary,"1 if Has Online delivery is Yes, otherwise 0",Numeric encoding of a service flag for later modeling,None. Direct encoding of an existing column.
+Cuisine_Count,Numerical,Count of comma-separated cuisines; 0 if Cuisines is missing,Turns a multi-label text field into a compact numeric feature,None. Derived only from Cuisines. Missing values mapped to 0.

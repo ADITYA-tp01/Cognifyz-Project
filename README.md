@@ -240,7 +240,7 @@ python -m jupyter nbconvert --to notebook --execute --inplace Level-3/Task-1_Pre
 
 - **License:** Distributed under the [MIT License](LICENSE).
 - **Internship:** [Cognifyz Technologies](https://cognifyz.com/) Data Science & Machine Learning Virtual Internship Program.
-- **Author:** [Aditya Raj](https://github.com/ADITYA-tp01)
+- **Author:** [Adityaraj](https://github.com/ADITYA-tp01)
 
 ---
 *If you find this repository helpful, consider leaving a ⭐ on GitHub!*
